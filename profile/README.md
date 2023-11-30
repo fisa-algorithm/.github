@@ -10,6 +10,13 @@
    -  [백준_10799 - 쇠막대기](https://www.acmicpc.net/problem/10799)
    - [백준_1158 - 요세푸스](https://www.acmicpc.net/problem/1158)
    - [백준_10845 - 큐](https://www.acmicpc.net/problem/10845)
+
+- 2023.11.31 ~ 2023.12.7 (4문제)
+    - [백준 2447 - 별찍기 -10](https://www.acmicpc.net/problem/2447)
+    - [백준 22862 - 가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22862)
+    - [백준 10815 - 숫자 카드](https://www.acmicpc.net/problem/10815)
+    - [백준 1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+      
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
 - 하루에 1문제씩 문제를 풉니다.
