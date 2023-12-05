@@ -16,7 +16,12 @@
     - [백준 22862 - 가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22862)
     - [백준 10815 - 숫자 카드](https://www.acmicpc.net/problem/10815)
     - [백준 1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-      
+- 2023.12.7 ~ 2023 12.14
+  - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  
+  - [계단 오르기](https://www.acmicpc.net/problem/2579)
+  - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - 
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
 - 하루에 1문제씩 문제를 풉니다.
@@ -26,4 +31,4 @@ O : 푼 문제
 X : 못푼 문제
 △ : 다시 풀어볼 문제 
 
-|문제이름 | 난이도(초급,중급,고급)| 풀이 날짜(22.xx.xx) | [@김어진](https://github.com/greeneryjin) | [@김수](https://github.com/popododo0720) | [@이명진](https://github.com/MJLee39) | [@염휘주](https://github.com/yeomyaloo) |
+|문제이름 | 난이도(초급,중급,고급)| 풀이 날짜(22.xx.xx) | [@김어진](https://github.com/greeneryjin) | [@김윤진]() | [@김수](https://github.com/popododo0720) | [@이명진](https://github.com/MJLee39) | [@염휘주](https://github.com/yeomyaloo) |
