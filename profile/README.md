@@ -21,7 +21,7 @@
   - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  
   - [계단 오르기](https://www.acmicpc.net/problem/2579)
   - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-  - 
+  - [폴리오미노](https://www.acmicpc.net/problem/1343)
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
 - 하루에 1문제씩 문제를 풉니다.
