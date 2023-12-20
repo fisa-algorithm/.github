@@ -27,6 +27,8 @@
     - [연속합](https://www.acmicpc.net/problem/1912)
     - [나이트의 이동](https://www.acmicpc.net/problem/7562)
     - [수 묶기](https://www.acmicpc.net/problem/1744)
+- 2023.12.21 ~ 2023.12.28
+    - 지금까지 푼 문제 리뷰
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
