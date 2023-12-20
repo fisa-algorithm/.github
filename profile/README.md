@@ -37,4 +37,4 @@ O : 푼 문제
 X : 못푼 문제
 △ : 다시 풀어볼 문제 
 
-|문제이름 | 난이도(초급,중급,고급)| 풀이 날짜(22.xx.xx) | [@김어진](https://github.com/greeneryjin) | [@김윤진]() | [@김수](https://github.com/popododo0720) | [@이명진](https://github.com/MJLee39) | [@염휘주](https://github.com/yeomyaloo) |
+|문제이름 | 난이도(초급,중급,고급)| 풀이 날짜(22.xx.xx) | [@김어진](https://github.com/greeneryjin) | [@김윤진]() | [@김민석]() | [@김수](https://github.com/popododo0720) | [@이명진](https://github.com/MJLee39)| [@오지영]() | [@염휘주](https://github.com/yeomyaloo) |
