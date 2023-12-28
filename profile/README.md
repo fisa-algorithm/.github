@@ -33,7 +33,7 @@
     - [설탕 배달](https://www.acmicpc.net/problem/2839)
     - [색종이 만들기](https://www.acmicpc.net/problem/2630)
     - [아기 상어](https://www.acmicpc.net/problem/16236)
-    - []()
+    - [보물](https://www.acmicpc.net/problem/1026)
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
