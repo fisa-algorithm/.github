@@ -36,6 +36,8 @@
     - [색종이 만들기](https://www.acmicpc.net/problem/2630)
     - [아기 상어](https://www.acmicpc.net/problem/16236)
     - [보물](https://www.acmicpc.net/problem/1026)
+- 2023.01.04 ~ 2023.01.11
+    - 풀지 못한 골드 문제 리뷰 
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
