@@ -38,6 +38,11 @@
     - [보물](https://www.acmicpc.net/problem/1026)
 - 2023.01.04 ~ 2023.01.11
     - 풀지 못한 골드 문제 리뷰 
+- 2024.01.12 ~ 2024.01.18
+    - [sql](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+    - [최단경로](https://www.acmicpc.net/problem/1753)
+    - [드럼](https://www.acmicpc.net/problem/30890)
+    - [손익분기점](https://www.acmicpc.net/problem/1712)
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
