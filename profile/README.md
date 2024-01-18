@@ -39,12 +39,12 @@
 - 2023.01.04 ~ 2023.01.11
     - 풀지 못한 골드 문제 리뷰 
 - 2024.01.12 ~ 2024.01.18
-    - [sql](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+    - [sql- group by](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
     - [최단경로](https://www.acmicpc.net/problem/1753)
     - [드럼](https://www.acmicpc.net/problem/30890)
     - [손익분기점](https://www.acmicpc.net/problem/1712)
 - 2024.01.19 ~ 2024.01.25
-    - [sql](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
+    - [sql- join](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
     - [영화감독 숌](https://www.acmicpc.net/problem/1436)
     - [퇴사](https://www.acmicpc.net/problem/14501)
     - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
