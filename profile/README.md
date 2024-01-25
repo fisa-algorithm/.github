@@ -48,6 +48,9 @@
     - [영화감독 숌](https://www.acmicpc.net/problem/1436)
     - [퇴사](https://www.acmicpc.net/problem/14501)
     - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+- 2024.01.26 ~ 2024.02.01
+    - [자동차 테스트](https://softeer.ai/practice/6247)
+    - [순서대로 방문하기](https://softeer.ai/practice/6246)
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
