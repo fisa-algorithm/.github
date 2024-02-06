@@ -53,6 +53,12 @@
     - [순서대로 방문하기](https://softeer.ai/practice/6246)
 - 2024.02.02 ~ 2024.02.08
     - 현대 오토에버 코테 대비 소프티어 문제 풀이
+- 2024.02.08 ~ 2024.02.15
+    - [치킨 배달](https://www.acmicpc.net/problem/15686)
+    - [공유기 설치](https://www.acmicpc.net/problem/2110)
+    - [계단 내려가기](https://polygon.codeforces.com/statements/previewAsHtml?lang=korean&ccid=5f9b1543f5dccb485d4b45ff2dc75d1e&session=bc485c725c530b355d0e732320780a71e5cca176)
+    - [컨베이어 벨트](https://polygon.codeforces.com/statements/previewAsHtml?lang=korean&ccid=5f9b1543f5dccb485d4b45ff2dc75d1e&session=14a620bba4154a046e70373bade7dea230b41e23)
+    - [상품 가격](https://polygon.codeforces.com/statements/previewAsHtml?lang=korean&ccid=5f9b1543f5dccb485d4b45ff2dc75d1e&session=19eeb04d1b32e7926b67113698274c7db4cdce99)
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
