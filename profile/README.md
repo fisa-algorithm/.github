@@ -56,9 +56,9 @@
 - 2024.02.08 ~ 2024.02.15
     - [치킨 배달](https://www.acmicpc.net/problem/15686)
     - [공유기 설치](https://www.acmicpc.net/problem/2110)
-    - [계단 내려가기](https://polygon.codeforces.com)
-    - [컨베이어 벨트](https://polygon.codeforces.com)
-    - [상품 가격](https://polygon.codeforces.com)
+    - [계단 내려가기](https://polygon.codeforces.com/)
+    - [컨베이어 벨트](https://polygon.codeforces.com/)
+    - [상품 가격](https://polygon.codeforces.com/)
       
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
