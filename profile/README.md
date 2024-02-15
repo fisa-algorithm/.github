@@ -59,7 +59,11 @@
     - [계단 내려가기](https://polygon.codeforces.com/)
     - [컨베이어 벨트](https://polygon.codeforces.com/)
     - [상품 가격](https://polygon.codeforces.com/)
-      
+- 2024.02.16 ~ 2024.02.22
+    - [신입사원](https://www.acmicpc.net/problem/1946)
+    - [공유기 설치](https://www.acmicpc.net/problem/2110)
+    - 현대 오토에버 문제 다시 풀기(계단 내려가기, 컨베이어 벨트, 상품 가격)
+
 ## 우리의 약속
 - 매주 목요일 코드 리뷰를 합니다.
 - 하루에 1문제씩 문제를 풉니다.
