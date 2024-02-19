@@ -2,6 +2,8 @@
 ## 문제를 뽑아봅시다.
 - https://solved.ac/problems/level
 - https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
+## 노션 - 문제 풀이 기록
+- https://www.notion.so/c6b1532caf3d456ebc526828b35ee86c?v=c07fab466cb1473e88f76ad2e9375260
 ## 문제 풀이 기록
 - 2023.11.22 ~ 2023.11.23 (2문제)
   - [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
